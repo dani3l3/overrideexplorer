@@ -1,0 +1,12 @@
+C:\Utilities\OverrideExplorer\OverrideExplorer\bin\Release\OverrideExplorer.exe
+C:\Utilities\OverrideExplorer\OverrideExplorer\bin\Release\OverrideExplorer.pdb
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\ResolveAssemblyReference.cache
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.ConnectionDialog.resources
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.MPBrowserDialog.resources
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.OverrideExplorer.resources
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.OverrideTargetEditor.resources
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.ProgressDialog.resources
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.Properties.Resources.resources
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.csproj.GenerateResource.Cache
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.exe
+C:\Utilities\OverrideExplorer\OverrideExplorer\obj\Release\OverrideExplorer.pdb

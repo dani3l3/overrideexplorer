@@ -1,0 +1,12 @@
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\bin\Debug\OverrideExplorer.exe.config
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\bin\Debug\OverrideExplorer.exe
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\bin\Debug\OverrideExplorer.pdb
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.ConnectionDialog.resources
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.MPBrowserDialog.resources
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.OverrideExplorer.resources
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.OverrideTargetEditor.resources
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.ProgressDialog.resources
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.Properties.Resources.resources
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.csproj.GenerateResource.Cache
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.exe
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.pdb
