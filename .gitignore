@@ -1,0 +1,4 @@
+# git ignore file
+.exe
+.pdb
+.suo
