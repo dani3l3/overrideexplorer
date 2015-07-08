@@ -4,22 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrideExplorer", "OverrideExplorer\OverrideExplorer.csproj", "{07A10268-A210-4572-85E1-FD8D45D1C529}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://muscetta.tfspreview.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = OverrideExplorer\\OverrideExplorer.csproj
-		SccProjectName1 = OverrideExplorer
-		SccLocalPath1 = OverrideExplorer
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{07A10268-A210-4572-85E1-FD8D45D1C529}.Debug|Any CPU.ActiveCfg = Release|Any CPU
-		{07A10268-A210-4572-85E1-FD8D45D1C529}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{07A10268-A210-4572-85E1-FD8D45D1C529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A10268-A210-4572-85E1-FD8D45D1C529}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A10268-A210-4572-85E1-FD8D45D1C529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A10268-A210-4572-85E1-FD8D45D1C529}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

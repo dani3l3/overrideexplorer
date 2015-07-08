@@ -10,3 +10,6 @@ C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\Ove
 C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.csproj.GenerateResource.Cache
 C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.exe
 C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\OverrideExplorer.pdb
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012.3.7.Branch\OverrideExplorer\bin\Debug\OverrideExplorer.exe.config
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012.3.7.Branch\OverrideExplorer\obj\Debug\OverrideExplorer.exe
+C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012.3.7.Branch\OverrideExplorer\obj\Debug\OverrideExplorer.pdb
